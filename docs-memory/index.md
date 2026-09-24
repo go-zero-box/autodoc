@@ -16,11 +16,6 @@ This is the compact navigation map for agent-assisted documentation work. Keep i
 
 ## Source Packets
 
-- [go-zero-box example](sources/go-zero-box-example.md) - project source excerpts, service boundaries, and example page scope.
-- [go-zero v1.10.3 release](sources/go-zero-v1.10.3.md) - release source packet and documentation impact report.
-- [go-zero v1.10.2 release](sources/go-zero-v1.10.2.md) - release source packet and documentation impact report.
-- [go-zero issue #5672](sources/go-zero-issue-5672.md) - report covering broken images, legacy URLs, stale links, sidebar order, and release freshness.
-
 ## Known Maintenance Themes
 
 - Keep README and AI writing instructions aligned with the actual three-locale site: English, Simplified Chinese, and Korean.
