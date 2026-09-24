@@ -53,3 +53,10 @@ Append entries in reverse chronological order.
 - Established `docs-memory/sources/` as the raw source intake location.
 - Mapped the public Starlight docs as the wiki layer.
 - Noted initial maintenance themes: three-locale alignment, release updates beyond changelog, link/build validation, and source-backed reference checks.
+
+## [2026-09-24] ingest | go-zero-box example
+
+- Captured project source excerpts and compared the existing official example page structure.
+- Added the community template example and concise index descriptions in English, Simplified Chinese, and Korean.
+- Clarified prerequisites and the companion RPC client initialization requirement.
+- Verification: npm test, npm run validate, and npm run build passed; runtime commands were checked against source, not executed against database services.

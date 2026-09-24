@@ -10,16 +10,17 @@ sidebar:
 
 ## 示例列表
 
-| 示例 | 难度 | 说明 |
-|------|------|------|
-| [Hello World](./hello-world/) | 入门 | 最简 API 服务 |
-| [REST API + JWT](./rest-api-jwt/) | 中级 | 带鉴权的 HTTP 接口 |
-| [书店](./bookstore/) | 中级 | 完整 API + RPC 服务 |
-| [微服务系统](./microservice-system/) | 高级 | 多服务 + 服务发现 |
+| 示例                                | 难度 | 说明                               |
+|-----------------------------------|------|----------------------------------|
+| [Hello World](./hello-world/)     | 入门 | 最简 API 服务                        |
+| [REST API + JWT](./rest-api-jwt/) | 中级 | 带鉴权的 HTTP 接口                     |
+| [书店](./bookstore/)                | 中级 | 完整 API + RPC 服务                  |
+| [微服务系统](./microservice-system/)   | 高级 | 多服务 + 服务发现                       |
+| [go-zero-box 工程模板](./go-zero-box/) | 高级 | 集成 API、异步队列、定时任务与 CLI 的工程模板 |
 
 ## 运行准备
 
-所有示例需要 Go 1.21+ 及 goctl。
+官方仓库内的示例需要 Go 1.21+ 及 goctl；go-zero-box 的环境要求和获取方式见其介绍页。
 
 ```bash
 go install github.com/zeromicro/go-zero/tools/goctl@latest

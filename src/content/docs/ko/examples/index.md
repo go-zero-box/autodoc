@@ -16,10 +16,11 @@ sidebar:
 | [JWT를 사용하는 REST API](./rest-api-jwt/) | 중급 | 인증이 적용된 HTTP 엔드포인트 |
 | [Bookstore](./bookstore/) | 중급 | API + RPC 서비스 전체 구성 |
 | [마이크로서비스 시스템](./microservice-system/) | 고급 | 서비스 디스커버리를 포함한 다중 서비스 |
+| [go-zero-box 프로젝트 템플릿](./go-zero-box/) | 고급 | API, 비동기 큐, 예약 작업, CLI를 통합한 프로젝트 템플릿 |
 
 ## 예제 실행
 
-모든 예제는 Go 1.21 이상과 goctl 설치가 필요합니다.
+공식 저장소의 예제에는 Go 1.21 이상과 goctl이 필요합니다. go-zero-box의 사전 준비 및 저장소는 해당 소개 페이지를 참고하세요.
 
 ```bash
 go install github.com/zeromicro/go-zero/tools/goctl@latest

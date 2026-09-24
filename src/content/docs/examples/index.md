@@ -16,10 +16,11 @@ This section collects practical, runnable examples to help you apply go-zero pat
 | [REST API with JWT](./rest-api-jwt/) | Intermediate | Authenticated HTTP endpoints |
 | [Bookstore](./bookstore/) | Intermediate | Full-stack API + RPC service |
 | [Microservice System](./microservice-system/) | Advanced | Multi-service with service discovery |
+| [go-zero-box Project Template](./go-zero-box/) | Advanced | Project template with APIs, asynchronous queues, scheduled tasks, and a CLI |
 
 ## Running Examples
 
-All examples require Go 1.21+ and goctl installed.
+Examples in the official repository require Go 1.21+ and goctl. See the go-zero-box page for its prerequisites and repository.
 
 ```bash
 go install github.com/zeromicro/go-zero/tools/goctl@latest
